@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "keyword": "csharp",
+      "title": "آموزش سی شارپ مقدماتی",
+      "description": "در این دوره آموزش جامع و کاربردی سی شارپ را از سطح صفر تا نزدیکای صد رو یاد می گیرید",
+      "students": 612,
+      "price": 2700000,
+      "teacher": "معین رضوی",
+      "src": "./src/assets/images/c.jpg"
+    },
+    {
+      "id": 2,
+      "keyword": "git",
+      "title": "آموزش کاربردی گیت",
+      "description": "در این دوره آموزش کاربردی گیت و گیتهاب را به صورت عملی یاد می گیرید",
+      "students": 1022,
+      "price": 950000,
+      "teacher": "حمیدرضا عبادی",
+      "src": "./src/assets/images/git.jpeg"
+    },
+    {
+      "id": 3,
+      "keyword": "linux",
+      "title": "درک عمیف لینوکس",
+      "description": "در این دوره لسیستم عامل لینوکس را از سطح صفر تا متوسط یاد می گیرید",
+      "students": 211,
+      "price": 3200000,
+      "teacher": "مهدی شمس",
+      "src": "./src/assets/images/linux.jpg"
+    },
+    {
+      "id": 4,
+      "keyword": "react",
+      "title": "آموزش ری اکت",
+      "description": "در این دوره آموزش جامع و کاربردی ری اکت را از سطح صفر تا نزدیکای صد رو یاد می گیرید",
+      "students": 1348,
+      "price": 730000,
+      "teacher": "امین سعیدی راد",
+      "src": "./src/assets/images/react.png"
+    },
+    {
+      "id": 5,
+      "keyword": "go",
+      "title": "آموزش زبان GO",
+      "description": "در این دوره آموزش جامع و کاربردی زبان GO را از سطح مقدماتی تا متوسط رو یاد می گیرید",
+      "students": 43,
+      "price": 970000,
+      "teacher": "بهنام جلیلی",
+      "src": "./src/assets/images/go.jpg"
+    },
+    {
+      "id": 6,
+      "keyword": "html",
+      "title": "دوره html و css",
+      "description": "در این دوره شما با مقدمات  مفاهیم اولیه وب آشنا می شوید و  html و css را در سطح خوبی فرا می گیرید.",
+      "students": 1427,
+      "price": 380000,
+      "teacher": "مونا شاهمرادی",
+      "src": "./src/assets/images/html.jpg"
+    },
+    {
+      "id": 7,
+      "keyword": "php",
+      "title": "PHP به زبان ساده",
+      "description": "در این دوره آموزش جامع و کاربردی زبان PHP را از سطح مقدماتی تا متوسط رو یاد می گیرید",
+      "students": 712,
+      "price": 2100000,
+      "teacher": "فریبا سهیلی",
+      "src": "./src/assets/images/php.jpg"
+    },
+    {
+      "id": 8,
+      "keyword": "ts",
+      "title": "آموزش جامع Typescript",
+      "description": "در این دوره آموزش جامع و کاربردی زبان typeScript را از سطح مقدماتی تا متوسط رو یاد می گیرید",
+      "students": 498,
+      "price": 1750000,
+      "teacher": "محمد قنری",
+      "src": "./src/assets/images/ts.jpg"
+    }
+  ]
+}
